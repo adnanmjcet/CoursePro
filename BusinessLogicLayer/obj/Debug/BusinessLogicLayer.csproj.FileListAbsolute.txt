@@ -2,3 +2,15 @@ c:\users\user\documents\visual studio 2017\Projects\Course\BusinessLogicLayer\bi
 c:\users\user\documents\visual studio 2017\Projects\Course\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
 c:\users\user\documents\visual studio 2017\Projects\Course\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 c:\users\user\documents\visual studio 2017\Projects\Course\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

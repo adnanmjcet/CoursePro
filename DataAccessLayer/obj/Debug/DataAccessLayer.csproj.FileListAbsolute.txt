@@ -3,3 +3,15 @@ c:\users\user\documents\visual studio 2017\Projects\Course\DataAccessLayer\bin\D
 c:\users\user\documents\visual studio 2017\Projects\Course\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2017\Projects\Course\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 c:\users\user\documents\visual studio 2017\Projects\Course\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\BusinessObjectLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\BusinessObjectLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -2,3 +2,7 @@ c:\users\user\documents\visual studio 2017\Projects\Course\BusinessObjectLayer\b
 c:\users\user\documents\visual studio 2017\Projects\Course\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.pdb
 c:\users\user\documents\visual studio 2017\Projects\Course\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.dll
 c:\users\user\documents\visual studio 2017\Projects\Course\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.pdb
+C:\Users\user\Documents\GitHub\CoursePro\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.dll
+C:\Users\user\Documents\GitHub\CoursePro\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.pdb
