@@ -10,14 +10,16 @@ namespace BusinessLogicLayer.Interface
     public interface ICourse
     {
         List<CourseModel> CourseList();
+        List<CourseSessionModel> CourseSessionList();
+        List<CourseTestModel> CourseTestList();
+        List<CourseTestAnswerModel> CourseTestAnswerList();
 
-        CourseModel GetCourse(CourseModel model);
+        CourseModel GetDetails(CourseModel model);
 
-        long Save(CourseModel model);
+        int Save(CourseModel model);
 
         CourseModel GetById(int id);
 
-        CourseModel GetCourseSessions(int id);
 
     }
 }

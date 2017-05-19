@@ -11,12 +11,16 @@ namespace BusinessObjectLayer.CommonModels
         public long Id { get; set; }
 
         public long? CourseID { get; set; }
+        public string CourseName { get; set; }
+
 
         public long? CourseTestID { get; set; }
+        public string CourseTestName { get; set; }
 
         public string Answer { get; set; }
 
         public int? UserID { get; set; }
+        public string UserName { get; set; }
 
         public bool? IsCorrect { get; set; }
 

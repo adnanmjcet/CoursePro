@@ -46,11 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Implementation\CourseBs.cs" />
+    <Compile Include="Implementation\CourseSessionBs.cs" />
+    <Compile Include="Implementation\CourseTestAnswerBs.cs" />
+    <Compile Include="Implementation\CourseTestBs.cs" />
     <Compile Include="Interface\ICourse.cs" />
+    <Compile Include="Interface\ICourseSession.cs" />
+    <Compile Include="Interface\ICourseTest.cs" />
+    <Compile Include="Interface\ICourseTestAnswer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Implementation\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -15,5 +15,6 @@ namespace DataAccessLayer.GenericPattern.Interface
         void Delete(int id);
         T GetById(int id);
         void Update(T entity);
+        List<T> GetMultipleTablesDataById(string SQLQuery);
     }
 }

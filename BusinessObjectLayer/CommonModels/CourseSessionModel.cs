@@ -11,6 +11,7 @@ namespace BusinessObjectLayer.CommonModels
         public long Id { get; set; }
 
         public long? CourseID { get; set; }
+        public string CourseName { get; set; }
 
         public string Topic { get; set; }
 

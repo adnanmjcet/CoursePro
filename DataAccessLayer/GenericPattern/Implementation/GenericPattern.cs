@@ -13,9 +13,11 @@ namespace DataAccessLayer.GenericPattern.Implementation
     public class GenericPattern<T> : IGenericPattern<T> where T : class
     {
         private readonly QuizDb db;
+        internal IDbSet<T> DbSet;
         public GenericPattern()
         {
             db = new QuizDb();
+            this.DbSet = this.db.Set<T>();
         }
 
         public IEnumerable<T> FindBy(Expression<Func<T, bool>> predicate)
@@ -50,5 +52,11 @@ namespace DataAccessLayer.GenericPattern.Implementation
             db.Entry(entity).State = EntityState.Modified;
             db.SaveChanges();
         }
+        public List<T> GetMultipleTablesDataById(string SQLQuery)
+        {
+            var strApplicant = db.Database.SqlQuery<T>(SQLQuery).ToList<T>();
+            return strApplicant;
+        }
     }
 }
+
