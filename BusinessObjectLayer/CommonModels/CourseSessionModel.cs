@@ -29,5 +29,7 @@ namespace BusinessObjectLayer.CommonModels
         public DateTime? LastSendDate { get; set; }
 
         public List<CourseModel> CourseModelList { get; set; }
+        public List<CourseSessionModel> CourseSessionModelList { get; set; }
+
     }
 }

@@ -25,7 +25,8 @@ namespace BusinessObjectLayer.CommonModels
         public List<CourseModel> CourseModelList { get; set; }
 
         public List<CourseTestModel> CourseTestModelList { get; set; }
+        public List<CourseTestAnswerModel> CourseTestAnswerModelList { get; set; }
 
-        public List<UserModel> UsersModelList { get; set; }
+        public List<UserModel> UserModelList { get; set; }
     }
 }

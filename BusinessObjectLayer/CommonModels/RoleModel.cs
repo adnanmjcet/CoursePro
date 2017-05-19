@@ -15,6 +15,6 @@ namespace BusinessObjectLayer.CommonModels
 
         public string CreatedDate { get; set; }
 
-        public List<UserModel> UsersModelList { get; set; }
+        public List<UserModel> UserModelList { get; set; }
     }
 }

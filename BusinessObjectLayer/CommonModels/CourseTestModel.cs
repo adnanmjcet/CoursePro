@@ -33,7 +33,7 @@ namespace BusinessObjectLayer.CommonModels
         public int? CreatedBy { get; set; }
 
         public List<CourseModel> CourseModelList { get; set; }
-
+        public List<CourseTestModel> CourseTestModelList { get; set; }
         public List<CourseTestAnswerModel> CourseTestAnswerModelList { get; set; }
     }
 }

@@ -41,5 +41,7 @@ namespace BusinessObjectLayer.CommonModels
         public List<CourseTestAnswerModel> CourseTestAnswerModelList { get; set; }
 
         public List<RoleModel> RoleModelList { get; set; }
+        public List<UserModel> UserModelList { get; set; }
+
     }
 }
