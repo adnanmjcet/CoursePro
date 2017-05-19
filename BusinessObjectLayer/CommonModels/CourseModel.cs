@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessObjectLayer.CommonModels
 {
-    public partial class Course
+    public partial class CourseModel
     {
         public long Id { get; set; }
 

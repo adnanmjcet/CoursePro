@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace BusinessObjectLayer.CommonModels
 {
-    class RoleModel
+    public partial class RoleModel
     {
+
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+
+        public string CreatedDate { get; set; }
+
+        public List<UserModel> UsersModelList { get; set; }
     }
 }
